@@ -1,0 +1,10 @@
+* cl-confidence
+
+Simple Interactive Test Framework for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/melusina-org/cl-confidence.git   |
+| commit  | {"messa  |
+| systems | cl-confidence |
+|---------+-------------------------------------------|
+
