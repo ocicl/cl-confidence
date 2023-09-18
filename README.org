@@ -4,6 +4,6 @@ Simple Interactive Test Framework for Common Lisp
 
 |---------+-------------------------------------------------------|
 | source  | git:https://github.com/melusina-org/cl-confidence.git |
-| commit  | d9faa23                                               |
+| commit  | 2e5eae4                                               |
 | systems | org.melusina.confidence                               |
 |---------+-------------------------------------------------------|
