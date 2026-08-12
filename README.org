@@ -7,4 +7,4 @@ Simple Interactive Test Framework for Common Lisp
 | commit  | 9da1064                                               |
 | systems | org.melusina.confidence                               |
 |---------+-------------------------------------------------------|
-  
+   
